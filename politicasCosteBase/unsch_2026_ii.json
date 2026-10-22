@@ -1,0 +1,9 @@
+{
+  "version": "UNSCH-2026-II-DEMO-01",
+  "costo_base": "60.00",
+  "orden_reglas": [
+    "extemporanea",
+    "desaprobatorio",
+    "beca"
+  ]
+}
